@@ -2012,6 +2012,7 @@
               {
                 "Effect": "Allow",
                 "Action": [
+                  "iam:DeleteServerCertificate",
                   "iam:GetServerCertificate",
                   "iam:ListServerCertificates",
                   "iam:PassRole",
